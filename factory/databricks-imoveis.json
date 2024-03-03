@@ -1,0 +1,9 @@
+{
+	"name": "databricks-imoveis",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9d8fcd9-fb63-48dd-80b3-afd9fb1bb093",
+		"tenantId": "abe9a904-2449-4edd-bfb9-792e250fd820"
+	}
+}
