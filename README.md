@@ -1,4 +1,4 @@
-# Pipeline com databricks e Azure Dataa Factory
+# Pipeline com databricks e Azure Data Factory
 
 O projeto tem o intuito de criar um pipeline de dados utilizando o data factory e o databricks
 
